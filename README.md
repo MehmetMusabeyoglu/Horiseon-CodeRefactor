@@ -15,6 +15,9 @@ This project is a Code Refactor application. Added semantic HTML elements and ac
  ## Installation
  N/A
  
+ ## Credits
+ N/A
+ 
  ## Author Links
  [LinkedIn](https://www.linkedin.com/in/mehmet-musabeyo%C4%9Flu-788758a8/)
  <br>
